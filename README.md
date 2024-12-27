@@ -1,6 +1,6 @@
 ## Hi there 👋 i am tsegaw
 🌱 currently i am computer science student at DBU in ethiopa
-
+📫 How to reachme:tsegaw2212@gmail.com
 
 
 
