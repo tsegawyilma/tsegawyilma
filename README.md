@@ -1,4 +1,4 @@
-## Hi there 👋 it is tsegaw
+## Hi there 👋 i am tsegaw
 🌱 currently i am computer science student at DBU in ethiopa
 
 
