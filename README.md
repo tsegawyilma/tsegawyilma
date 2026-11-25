@@ -1,124 +1,38 @@
+<!-- Animated Wave Header -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=3BA4F2&center=true&vCenter=true&width=700&lines=Hi+I'm+Tsegaw+Yilma;Full+Stack+Developer;React+%7C+TypeScript+%7C+Supabase;Always+Learning+New+Technologies" />
-</p>
-<h1 align="center">Hi 👋, I'm Tsegaw Yilma</h1>
-
-<h3 align="center">
-Full Stack Developer • Computer Science Student • Ethiopia 🇪🇹
-</h3>
-
-<p align="center">
-Passionate about building modern web applications and solving real-world problems through technology.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=200&section=header&text=Tsegaw%20Yilma&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Computer%20Science%20Student%20%E2%80%A2%20Ethiopia%20%F0%9F%87%AA%F0%9F%87%B9&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Tsegaw Yilma Header Banner" />
 </p>
 
----
+<!-- Dynamic Typing Subtitle -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Scalable+Full-Stack+Web+Applications;React+%E2%80%A2+TypeScript+%E2%80%A2+Supabase+%E2%80%A2+Node.js;Solving+Real-World+Problems+Through+Clean+Code;Always+Learning+%26+Exploring+AI+Technologies" alt="Typing SVG" />
+  </a>
+</p>
 
+<!-- Quick Action Social & Profile Badges -->
+<p align="center">
+  <a href="mailto:tsegaw2212@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tsegaw2212%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/tsegawyilma">
+    <img src="https://img.shields.io/badge/GitHub-tsegawyilma-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=tsegawyilma&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<br/>
+
+<!-- About Me Section -->
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Student
-- 💻 Full Stack Web Developer
-- 🌱 Currently improving my skills in modern web development
-- 🚀 Building a Recruitment & Internship Management System
-- ⚡ Interested in Software Engineering, AI, and Web Technologies
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,php,cpp" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
-</p>
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=supabase,nodejs,mysql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
----
-
-# 🚀 Featured Project
-
-## Recruitment & Internship Management System
-
-A modern web platform that helps organizations manage recruitment and internship processes efficiently.
-
-### Features
-
-- Secure Authentication
-- Job Posting & Management
-- Applicant Dashboard
-- CV Upload
-- Applicant Ranking
-- Notifications
-- Organization Dashboard
-- Internship Management
-- Responsive UI
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tsegawyilma&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsegawyilma&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=tsegawyilma&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tsegawyilma&theme=github-dark"/>
-
-</p>
-
----
-
-## 🌍 Connect With Me
-
-📧 Email: **tsegaw2212@gmail.com**
-
-GitHub: **https://github.com/tsegawyilma**
-
----
-
-## 💡 Quote
-
-> "Keep learning. Keep building. Every project is another step forward."
-
----
-
-<p align="center">
-
-Thanks for visiting my profile! ⭐
-
-</p>
+```typescript
+const developer = {
+  name: "Tsegaw Yilma",
+  location: "Ethiopia 🇪🇹",
+  education: "B.Sc. in Computer Science",
+  role: "Full Stack Web Developer",
+  currentFocus: "Building a Recruitment & Internship Management System",
+  interests: ["Software Engineering", "Full-Stack Architecture", "Artificial Intelligence"],
+  mindset: "Keep learning. Keep building. Every project is another step forward."
+};
